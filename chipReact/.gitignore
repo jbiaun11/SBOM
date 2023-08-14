@@ -1,0 +1,23 @@
+# # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# # dependencies
+# chipReact/node_modules/
+# chipReact/.pnp
+# chipReact/.pnp.js
+
+# # testing
+# chipReact/coverage
+
+# # production
+# chipReact/build
+
+# # misc
+# chipReact/.DS_Store
+# chipReact/.env.local
+# chipReact/.env.development.local
+# chipReact/.env.test.local
+# chipReact/.env.production.local
+
+# chipReact/npm-debug.log*
+# chipReact/yarn-debug.log*
+# chipReact/yarn-error.log*
